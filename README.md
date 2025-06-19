@@ -28,8 +28,8 @@ The platform consolidates alerts into **incidents**, automates response actions,
 
 * *What is EDR visibility limited to?* → Endpoints
 * *Is Microsoft Defender XDR purpose-built for Microsoft environments?* → Yes
+![6601e243753b8d484668851e-1744057080489](https://github.com/user-attachments/assets/eefb0f19-f14d-49e5-b492-d11aea0d57ee)
 
-![image](https://github.com/user-attachments/assets/b6522134-5b9c-4736-9725-2c73a15ffa38)
 
 ---
 
