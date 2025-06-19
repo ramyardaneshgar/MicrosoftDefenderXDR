@@ -28,6 +28,7 @@ The platform consolidates alerts into **incidents**, automates response actions,
 
 * *What is EDR visibility limited to?* → Endpoints
 * *Is Microsoft Defender XDR purpose-built for Microsoft environments?* → Yes
+  
 ![6601e243753b8d484668851e-1744057080489](https://github.com/user-attachments/assets/eefb0f19-f14d-49e5-b492-d11aea0d57ee)
 
 
@@ -70,6 +71,7 @@ These settings are accessed via:
 ```
 Microsoft Defender portal > Settings > Microsoft Defender XDR
 ```
+![image](https://github.com/user-attachments/assets/6607ea28-c06c-40ba-ae8d-e8ea5be1703d)
 
 **Question Review:**
 
@@ -101,6 +103,12 @@ Microsoft Defender Portal > Permissions > Roles
 
 * *From which tab can admins create custom roles?* → Permissions
 
+  ![image](https://github.com/user-attachments/assets/d1223954-0d82-4a51-81df-3dceac7e679b)
+
+  ![image](https://github.com/user-attachments/assets/beb30d68-a6d4-4781-8d04-97a3483f1c45)
+
+
+
 ---
 
 ## Task 6 – Unified Role-Based Access Control (RBAC)
@@ -127,6 +135,12 @@ Each toggle enables a workload (e.g., Email, Endpoint, Cloud Apps) for centraliz
 
 * *How many ways can RBAC be activated?* → 2
 * *Other than "Activate workloads", what can be used to activate RBAC?* → Workload settings
+
+  ![image](https://github.com/user-attachments/assets/0ded97ae-8283-4aa3-a4fc-400fe2d4bf4e)
+
+  ![image](https://github.com/user-attachments/assets/aad456a7-bb58-4e74-b55b-37c15365c217)
+
+
 
 ---
 
@@ -164,10 +178,19 @@ AlertInfo
 
 This query pulls alert metadata, sorted by `AlertId`. I set the time range to 30 days to ensure full coverage of recent detections.
 
+![6601e243753b8d484668851e-1744057080489](https://github.com/user-attachments/assets/1d15e024-9091-4115-b494-bd19821ef8e9)
+
+
+
 **Question Review:**
 
 * *Besides Email & Collaboration alerts, which other tab exists?* → Alerts
 * *Which option allows you to modify incident details?* → Manage Incident
+
+![image](https://github.com/user-attachments/assets/68eec22e-da4c-4b6d-a26b-b4e8460e2874)
+
+![image](https://github.com/user-attachments/assets/80af1e7f-232e-4caa-96c2-50a67759079e)
+
 
 ---
 
@@ -197,6 +220,24 @@ This model allows reuse of the same role logic but with different scopes—a pri
 
 * *How many permission groups are available?* → 3
 * *Which group controls security configuration?* → Authorization and Settings
+
+![image](https://github.com/user-attachments/assets/e293765d-18a6-4290-af9a-0df13b23151f)
+
+![image](https://github.com/user-attachments/assets/a73aedab-222e-492e-8091-574f054baab1)
+
+![image](https://github.com/user-attachments/assets/770e73c2-bcbd-48dd-bd15-f8775319c4f6)
+
+![image](https://github.com/user-attachments/assets/7c273ab6-71e3-4a11-b178-fb6a69eb0d6d)
+
+![image](https://github.com/user-attachments/assets/61a11685-53f7-46bb-b90e-c68c7bc61cd4)
+
+![image](https://github.com/user-attachments/assets/76532464-a397-4986-a594-479a2713f01d)
+
+![image](https://github.com/user-attachments/assets/e536a2b8-4947-4332-972c-6cf278e4eeb6)
+
+
+
+
 
 ---
 
